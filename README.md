@@ -1,4 +1,4 @@
-# PDF Fusion & Security Manager
+# PDF Fusion & Security Manager                    #Author -- Harshit Singh
 
 ## 1. Project Overview
 

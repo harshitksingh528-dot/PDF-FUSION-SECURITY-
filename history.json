@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2026-09-29 17:29:56",
+        "operation": "Merge and Protect",
+        "pdf_count": 3,
+        "total_pages": 122,
+        "output_file": "protected_merged.pdf",
+        "protected": true
+    }
+]

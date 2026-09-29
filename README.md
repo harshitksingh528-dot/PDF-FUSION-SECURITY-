@@ -171,3 +171,7 @@ PDF_Fusion_Security_Manager/
 │
 └── tests/
     └── test_pdf_manager.py
+
+"AUTHOR"--Harshit Singh
+
+
